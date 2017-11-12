@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenCV Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  OpenCV Template.vcxproj -> E:\TU Chemnitz Doc Applications\C++ Self Study\OpenCV\OpenCV Template\x64\Debug\IPPR Project.exe
+  OpenCV Template.vcxproj -> E:\TU Chemnitz Doc Applications\C++ Self Study\OpenCV\OpenCV Template\x64\Debug\IPPR Project.pdb (Full PDB)
